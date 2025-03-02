@@ -6,3 +6,5 @@ edition = "2021"
 [dependencies]
 anyhow = "1.0.89"
 log = "0.4.22"
+rand = "0.8.5"
+rand_chacha = "0.3.1"
